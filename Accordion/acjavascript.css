@@ -1,0 +1,10 @@
+.panel_body {
+    display: none;
+}
+
+.question {
+    font-size: 20px;
+}
+.question.active .panel_body {
+    display: block;
+}
